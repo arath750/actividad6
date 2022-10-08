@@ -11,14 +11,15 @@ body{
 
 }
 footer{
-    position: absolute;
-  bottom: 0;
-  width: 100%;
-  height: 40px;
-  color: white;
+   background-color: white ;
 }
 
 #uwu{
     background-color: white;
     margin-top:250px;
+}
+#ewe{
+    display: flex;
+     justify-content: center;
+     align-items: center;
 }
