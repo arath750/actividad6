@@ -16,13 +16,21 @@ footer{
    margin-top: 50px;
 }
 
+.siuu{
+    display: flex;
+     justify-content: center;
+     align-items: center;
+
+}
 
 #ewe{
+    margin-top: 50px;
     display: flex;
      justify-content: center;
      align-items: center;
 }
 #ojo{
+    margin-top: 30px;
     background-color: white;
     margin-left: auto;
     margin-right: auto;
