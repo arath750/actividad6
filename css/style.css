@@ -3,6 +3,7 @@ html{
 }
 .card {
 	display: inline-block;
+    width: 500px;
   
 }
 
@@ -12,14 +13,26 @@ body{
 }
 footer{
    background-color: white ;
+   margin-top: 50px;
 }
 
-#uwu{
-    background-color: white;
-    margin-top:250px;
-}
+
 #ewe{
     display: flex;
      justify-content: center;
      align-items: center;
+}
+#ojo{
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    border: red 2px solid;
+
+
+}
+#tabla{
+    margin-top: 10px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
 }
